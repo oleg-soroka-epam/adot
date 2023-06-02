@@ -4,8 +4,8 @@
 
 ## Episode : The value of ADOT
 This repository contains the files utilized during the tutorial presented in the dedicated IsItObservable episode related to AWS Distro For OpenTelemetry.
-<p align="center"><img src="/image/adot_logo.png" width="40%" alt="ADOT Logo" /></p>
-https://www.youtube.com/watch?v=ebsi2KOn4Wg
+<p align="center"><img src="/image/adot_logo.png" width="40%" alt="ADOT Logo" /> https://www.youtube.com/watch?v=ebsi2KOn4Wg </p>
+
 
 What you will learn
 * How to use  [ADOT](https://aws-otel.github.io/docs/introduction)
